@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f0126fae-988b-4b88-912f-ecbc47c51e32" alt=" " width="40%">
 </p>
-<h1 align="center">Jacksonville History Center Presents: Echos of Cecil Field</h1>
+<h1 align="center">The Jacksonville History Center Presents: Echos of Cecil Field</h1>
 
 # Introducing the Speaker
 ## Gayle Simpson Garrison
@@ -20,8 +20,28 @@ Bob’s career post-Navy focused on the conversion and redevelopment of Cecil Fi
 ## Matt Bocchino
 Currently serving as director of Cecil Airport & Spaceport, Matt Bocchino’s 20-year career spans the spectrum of airport management, from general aviation to international airports, as well as a commercial spaceport. Prior to joining Cecil Airport, Matt held positions at Jacksonville International Airport, Herlong Recreational Airport, and Ft. Lauderdale Executive Airport. An active private pilot, Matt earned bachelor’s and master’s degrees from Jacksonville University.
 
-# Military Policies
+# Rising Tension
+
+# BRAC Commission
+
+# Public Response
+
+# The Closure of Cecil Field
+
+# The Cecil Field Development Commission
+## The Base Reuse Plan
+
+# The Future of Cecil Field
 
 # NAS Cecil Field Timeline
 .ve-iframe style=height:500px src= https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vRj7_WSC6SxEhPD53OLTw02YMMS8pMUg2D2RK39WkB0kgOOy-EgYed52aS3cKfuQFMyOdW1wL5zdYMv width=100%25&height=650 allowtransparency= frameborder=0 loading=eager
+
+# Event Reception
+
+## Q&A
+
+## Physical Exhibit
+
+# Gallery
+
 
