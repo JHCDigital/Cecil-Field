@@ -40,7 +40,6 @@ The preservation of Naval Air Station Cecil Field was the direct result of Jacks
 # Event Reception
 The Jacksonville History Center was honored to host the Echos of Cecil Field speaker series. Gayle Garrisson and the four brilliant panalist truly gave an impactful and educational talk on Cecil Field's history and the now Cecil Airport and Commerce Center's future. Approximately 60 people were in attendence 
 
-## Q&A
 
 # Gallery
 
