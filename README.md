@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f0126fae-988b-4b88-912f-ecbc47c51e32" alt=" " width="40%">
 </p>
-<h1 align="center">The Jacksonville History Center Presents: Echos of Flight</h1>
+<h1 align="center">The Jacksonville History Center Presents: Echoes of Flight</h1>
 
 # Introducing the Speaker
 ## Gayle Simpson Garrison
@@ -68,7 +68,7 @@ Visit the National POW/MIA Memorial and Museum located at Cecil Commerce Center 
                                 
 
 # Event Reception
-The Jacksonville History Center was honored to host the Echos of Flight as its April Speaker Series program. Gayle Garrison and the four panalists gave an impactful and educational talk on Cecil Field's history and the now Cecil Airport and Commerce Center. More than 50 guests attended the program and engaged in lively discussion with the panel. The JHC's Research Archivist, Shawn Stermer, curated an exhibit comprised of some of the archive's objects and photographs surrounding Jacksonville aviation history. The Merrill House Museum Coordinator, Nancy Gandy, provided a lovely assortment of refreshments for the program. This Speaker Series was especially connected to the community as Cecil has been a consistant part of Jacksonville's identity and the Jacksonville History Center thanks all in attendance for a wonderful night.
+The Jacksonville History Center was honored to host the Echoes of Flight as its April Speaker Series program. Gayle Garrison and the four panelists gave an impactful and educational talk on Cecil Field's history and the now Cecil Airport and Commerce Center. More than 50 guests attended the program and engaged in lively discussion with the panel. The JHC's Research Archivist, Shawn Stermer, curated an exhibit comprised of some of the archive's objects and photographs surrounding Jacksonville aviation history. The Merrill House Museum Coordinator, Nancy Gandy, provided a lovely assortment of refreshments for the program. This Speaker Series was especially connected to the community as Cecil has been a consistant part of Jacksonville's identity and the Jacksonville History Center thanks all in attendance for a wonderful night.
 
 
 # Gallery
