@@ -46,9 +46,11 @@ The Commission questions Gordon R. England, Vern Clark, and Michael Hagee in 200
 # Cecil Field's Legacy
 The preservation of Naval Air Station Cecil Field was the direct result of Jacksonville's willful local leaders, citizens and the Cecil Field Development Commission, who recognized Cecil as an important part of Jacksonville history that they couldn't let be forgotten. Cecil field was more than just a closed base, it embodied the decades of service and shared histories that connected the Navy and Jacksonville's identity to it together.  The Cecil Field Development Committee formed a reuse plan to present to the Department of Defense in favor of saving and repurposing Cecil.​ Some of the early wins for the Commission assisted in keeping Cecil's military legacy. Six S-3 Viking squadrons relocate to Naval Air Station Jacksonville and more ships were relocated to Naval Station Mayport. At the same time, Naval Aviation Depot Jacksonville welcomed over 1,000 employees more from other closed facilities. Approximately, 4,300 new military jobs and 2,000 new civilian jobs effectively replaced the losses from closing NAS Cecil Field. Today, Cecil Field has become the Cecil Airport and Commerce Center Jacksonville knows today. Through its legacy and continued service Cecil has definitely acclaimed itself as a Jacksonville success story. 
 
-<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/c5151ab8-55b1-4141-ab34-65b5eae5d2e9" />
+<p align="center">
+<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/c5151ab8-55b1-4141-ab34-65b5eae5d2e9">
+</p>
 
-<p align="left">
+<p align="center">
 Cecil Airport sign in 2026.
 </p>
 
