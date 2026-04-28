@@ -48,7 +48,7 @@ The preservation of Naval Air Station Cecil Field was the direct result of Jacks
 
 <img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/c5151ab8-55b1-4141-ab34-65b5eae5d2e9" />
 
-<p align="center">
+<p align="left">
 Cecil Airport sign in 2026.
 </p>
 
