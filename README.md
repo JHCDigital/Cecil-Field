@@ -5,7 +5,7 @@
 
 # Introducing the Speaker
 ## Gayle Simpson Garrison
-Gayle Simpson Garrison grew up as a Navy kid, moving around the country. She became interested in historyand political science while living in Northern Virginia. She spent her last two years of high school in Jacksonville before heading off to Samford University in Birmingham, Alabama where she majored in Political Science with a concentration in Public Administration.
+Gayle Simpson Garrison grew up as a Navy kid, moving around the country. She became interested in history and political science while living in Northern Virginia. She spent her last two years of high school in Jacksonville before heading off to Samford University in Birmingham, Alabama where she majored in Political Science with a concentration in Public Administration.
 After college, Gayle worked on Capitol Hill for Congressman Cliff Stearns. She married Sam Garrison in 1999, and in 2001 they moved back to Jacksonville after Sam finished law school. Gayle taught in the history department at St. Johns Country Day School in Orange Park for 16 years. During that time, she completed a Master of Arts Degree in American History from Gettysburg College through the Gilder Lehrman Institue for American History.
 Her presentation for the Jacksonville History Center is based on her Master's Thesis, an oral history on the closure and redevelopment of Cecil and its impact on the City of Jacksonville. 
 
@@ -70,6 +70,6 @@ The Jacksonville History Center was honored to host the Echos of Cecil Field spe
 # Gallery
 ```
 carousel navigation
-<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/c5151ab8-55b1-4141-ab34-65b5eae5d2e9">
+
 ```
 
