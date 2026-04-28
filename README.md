@@ -74,8 +74,11 @@ The Jacksonville History Center was honored to host the Echos of Cecil Field spe
 # Gallery
 <details>
   <summary>Click to view Gallery</summary>
-  <img src="image1.png">
-  <img src="image2.png">
+  <img src="https://github.com/user-attachments/assets/e107bb61-4261-4d59-bb94-ef600896b462">
+  <img src="https://github.com/user-attachments/assets/ce40806e-c30e-4b5d-95dc-354d6822a647">
+   <img src="https://github.com/user-attachments/assets/da57975c-4e02-4aa1-8340-b638d6f8dcb5">
+   <img src="https://github.com/user-attachments/assets/ccf50026-4d1d-4044-809c-d4d93892a18b">
+   <img src="https://github.com/user-attachments/assets/b26249ea-a368-456d-a979-3ce30ba26d9e">
 </details>
 
 
