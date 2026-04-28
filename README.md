@@ -68,6 +68,11 @@ The Jacksonville History Center was honored to host the Echos of Cecil Field spe
 
 
 # Gallery
+```
 carousel navigation
-<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/c5151ab8-55b1-4141-ab34-65b5eae5d2e9">
+- gh:JHCDigital/Debunking-DeBry-Speaker-Series/IMG_6932.jpeg
+- gh:JHCDigital/Debunking-DeBry-Speaker-Series/Keith_Ashley_presentation_2.jpeg
+- gh:JHCDigital/Debunking-DeBry-Speaker-Series/IMG_6930.jpeg
+- gh:JHCDigital/Debunking-DeBry-Speaker-Series/IMG_6929.jpeg
+```
 
