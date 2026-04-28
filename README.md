@@ -27,7 +27,10 @@ As the globe was on the brink of WWII the United States began expanding its mili
 <p align="center">
 <img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/8a9e9d10-6808-4567-81af-dfbc047350ea"> 
 </p>
+
+<p align="center">
 Airplanes flying out of Cecil Field c. 1942.
+</p>
 
 # Community Response
 The closure of Cecil Field was a historic moment for Jacksonville. Not only did it mark the loss of a place where people had built their careers, affiliations and lives, it also had an economic impact estimated at $586 million and more than 8,500 jobs affected. In response, Jax leadership tried to focus on planning for the future rather than opposing the decision. Under Mayor Ed Austin, the Cecil Field Development Commission was established in 1993, which was comprised of 36 members of local businesses and government officials, to help guide the transition and explore new opportunities for the former base. The redevelopment process was complex and had many different moving parts to it. Military operations were phased out while environmental cleanup, land assessment, and planing for the community's future put into play simultaneously. Jacksonville citizens were also outspoken on the impact of this transition and fought against its closure. 
