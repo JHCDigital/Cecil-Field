@@ -9,7 +9,7 @@ Gayle Simpson Garrison grew up as a Navy kid, moving around the country. She bec
 After college, Gayle worked on Capitol Hill for Congressman Cliff Stearns. She married Sam Garrison in 1999, and in 2001 they moved back to Jacksonville after Sam finished law school. Gayle taught in the history department at St. Johns Country Day School in Orange Park for 16 years. During that time, she completed a Master of Arts Degree in American History from Gettysburg College through the Gilder Lehrman Institue for American History.
 Her presentation for the Jacksonville History Center is based on her Master's Thesis, an oral history on the closure and redevelopment of Cecil and its impact on the City of Jacksonville. 
 
-<iframe src="https://jaxhistory-my.sharepoint.com/personal/digitalcollections_jaxhistory_org/_layouts/15/Doc.aspx?sourcedoc={703cea0f-f64f-4fad-aed9-e94c33b3a4c2}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9pU2YTX_NC0YF_QPsoWtSeh539NottBW0fwpB9AU6-BSrRJ51pfGTkLBywMBhmE8Xh7JQaR_GxV4E/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 # Introducing the Panalists
 ## Alberta Hipps
